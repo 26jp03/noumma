@@ -1,4 +1,4 @@
-int pinTrig = 5;
+int pinTrig = 8;
 int pinEcho = 6;
 int pinBuzz = 7;
 
